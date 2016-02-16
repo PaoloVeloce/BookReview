@@ -1,15 +1,15 @@
-<h1>Book review </h1>
-<p> I've choosed Book Review as first how-to learn app for several reasons:</p>
-<ul>
-  <li>I like reading books from very early age (around 4 or 5), when father taught me, how to read and I began to do it myself</li>
-  <li>My lovely wife like reading too, and it is our common passion </li>
-  <li>My near mates like reading too </li>
-</ul>
-<p> So, I've decided to make such app for sharing books I've read to my wife and mates for supporting our reading activities in web format </p>
-<p> And also, is good idea for portfolio - people will takee a grasp about my thoughts by scanning such BookReview app</p>
+Book review
+ I've choosed Book Review as first how-to learn app for several reasons:
+
+- I like reading books from very early age (around 4 or 5), when father taught me, how to read and I began to do it myself
+- My lovely wife like reading too, and it is our common passion
+- My near mates like reading too 
+
+So, I've decided to make such app for sharing books I've read to my wife and mates for supporting our reading activities in web format.
+And also, is good idea for portfolio - people will takee a grasp about my thoughts by scanning such BookReview app
 
 
 
-<p>Learn by looking and repeating the same by <a href="https://www.youtube.com/user/IHemrick">building Book Review app</a>
+Learn by looking and repeating the same by <a href="https://www.youtube.com/user/IHemrick">building Book Review app
 with Ryan Hemrick 
-- https://www.youtube.com/user/IHemrick </p>
+- https://www.youtube.com/user/IHemrick 
