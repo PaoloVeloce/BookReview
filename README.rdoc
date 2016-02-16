@@ -1,5 +1,5 @@
 Book review
- I've choosed Book Review as first how-to learn app for several reasons:
+I've choosed Book Review as first how-to learn app for several reasons:
 
 - I like reading books from very early age (around 4 or 5), when father taught me, how to read and I began to do it myself
 - My lovely wife like reading too, and it is our common passion
@@ -10,6 +10,6 @@ And also, is good idea for portfolio - people will takee a grasp about my though
 
 
 
-Learn by looking and repeating the same by <a href="https://www.youtube.com/user/IHemrick">building Book Review app
+Learn by looking and repeating the same by building Book Review app
 with Ryan Hemrick 
 - https://www.youtube.com/user/IHemrick 
